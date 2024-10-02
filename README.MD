@@ -95,3 +95,9 @@ this is an ~~tachado~~ text con 2 signos ~~ al inicio y al final
 * buscas en internet la lista de github emojis y los copias, la mayoria sigue el patron de :palabra:
 
 :+1:
+
+## para mas informacion ir a la cheatsheet de github online, solo buscar en google
+
+*link 
+
+[Link de la cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
