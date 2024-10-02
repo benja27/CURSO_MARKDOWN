@@ -89,3 +89,9 @@ this is an ~~tachado~~ text con 2 signos ~~ al inicio y al final
 * [ ] task 2
 * [ ] task 3
 * [x] task 4
+
+## agregar emojis
+
+* buscas en internet la lista de github emojis y los copias, la mayoria sigue el patron de :palabra:
+
+:+1:
